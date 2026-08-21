@@ -3,3 +3,16 @@
 Boilerplate for the 03-AR-Database/03-ActiveRecord-Basics/01_sinatra_activerecord livecode.
 
 Please refer to the livecode guidelines to use it.
+
+```
+bundle
+```
+
+```
+rake db:create db:migrate db:seed
+```
+
+
+```
+bundle exec ruby app.rb
+```
